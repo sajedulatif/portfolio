@@ -1,0 +1,17 @@
+Sajedul Atif - CV
+
+Name: Sajedul Atif
+Location: Bangladesh
+Profession: Front-End & WordPress Developer
+
+Skills:
+- HTML, CSS, JavaScript
+- Bootstrap
+- WordPress
+- Elementor, Crocoblock, JetEngine
+
+Experience:
+- Building modern, responsive websites
+- SEO-friendly designs
+
+Contact: [Your Email/Phone]
